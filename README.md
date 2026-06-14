@@ -15,11 +15,16 @@
 - MongoDB
 - SQL
 
-📌 Featured Projects:
-- Zomato Bangalore Dashboard
-- URL Shortener
-- Patient Feedback Analysis using NLP
-- Churn Analysis
+📌 Featured Projects
+
+• SmartAttendanceQR
+  Android QR-based attendance management system built with Kotlin and Firebase.
+
+• Phishing URL Detection System
+  Machine learning application for identifying malicious URLs.
+
+• Patient Feedback Analysis using NLP
+  NLP-powered sentiment analysis dashboard using NLTK and VADER.
 
 🌱 Currently improving:
 - Data Structures & Algorithms
