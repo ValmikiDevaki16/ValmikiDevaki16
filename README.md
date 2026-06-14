@@ -26,4 +26,4 @@
 - Full Stack Development
 
 📫 Connect with me:
-LinkedIn: [www.linkedin.com/in/v-devaki-5303b230a]
+LinkedIn: www.linkedin.com/in/v-devaki-5303b230a
